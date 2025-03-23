@@ -29,6 +29,7 @@ Several machine learning models were tested:
 - **LSTM (Long Short-Term Memory Networks)**: Initially explored but found inefficient.
 - **Random Forest**: Provided high accuracy but was computationally expensive.
 - **LightGBM (Final Model)**: Selected for its balance between accuracy and efficiency.
+- **PCA & XGBoost**: Used for dimensionality reduction and boosting performance, improving prediction accuracy while maintaining efficiency.
 
 ### Model Performance
 The final LightGBM model was trained on the top 20 provinces with the highest traffic volume. Key evaluation metrics:
