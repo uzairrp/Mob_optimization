@@ -46,7 +46,7 @@ A **Streamlit-based web application** is included in this repository to provide 
 ### Running the Web App
 To start the Streamlit app, run the following command:
 ```sh
-streamlit run Home.py
+streamlit run app.py
 ```
 This will launch a browser interface where you can interact with the model's predictions in real-time.
 
@@ -70,18 +70,11 @@ This will launch a browser interface where you can interact with the model's pre
    ```
 
 ### Running the Project
-- Execute data preprocessing:
-  ```sh
-  python preprocess.py
-  ```
-- Train the LightGBM model:
-  ```sh
-  python train_model.py
-  ```
-- Generate predictions:
-  ```sh
-  python predict.py
-  ```
+Since the project is structured using Jupyter notebooks, the following can be helpful while navigating through the project:
+  - **EDA & insights**: `initial_insights.ipynb`
+  - **Preprocessing & Model Training**: `final_model.ipynb`
+  - **Predictions' insights**: `predictions_insights.ipynb`
+- Run the cells in each notebook to execute the corresponding steps.
 
 ## 👥 Contributors
 - **Project Manager**: Uzair Ramzan
