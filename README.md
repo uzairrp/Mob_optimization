@@ -73,7 +73,7 @@ This will launch a browser interface where you can interact with the model's pre
 ### Running the Project
 Since the project is structured using Jupyter notebooks, the following can be helpful while navigating through the project:
   - **EDA & insights**: `initial_insights.ipynb`
-  - **Preprocessing & Model Training**: `final_model.ipynb`
+  - **Preprocessing & Model Training (not included)**: `final_model.ipynb`
   - **Predictions' insights**: `predictions_insights.ipynb`
 - Run the cells in each notebook to execute the corresponding steps.
 
@@ -86,5 +86,5 @@ Since the project is structured using Jupyter notebooks, the following can be he
 This project is licensed under the MIT License.
 
 ---
-For any questions or contributions, feel free to raise an issue or submit a pull request! 🚦
+For any questions or contributions, feel free to contact me via the provided email since not all components have been made public due to confidentiality issues! 🚦
 
