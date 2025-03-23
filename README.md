@@ -46,7 +46,7 @@ A **Streamlit-based web application** is included in this repository to provide 
 ### Running the Web App
 To start the Streamlit app, run the following command:
 ```sh
-streamlit run app.py
+streamlit run Home.py
 ```
 This will launch a browser interface where you can interact with the model's predictions in real-time.
 
@@ -64,9 +64,9 @@ This will launch a browser interface where you can interact with the model's pre
    ```sh
    cd Mob_optimization
    ```
-3. Install dependencies:
+3. Make sure the dependencies are fulfilled:
    ```sh
-   pip install -r requirements.txt
+   pip install ...
    ```
 
 ### Running the Project
